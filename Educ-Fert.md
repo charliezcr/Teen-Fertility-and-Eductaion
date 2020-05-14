@@ -171,13 +171,13 @@ dfcolombia <- data.frame(country="Colombia",start_year=min(Colombia$year),end_ye
 p1
 ```
 
-![](Final_files/figure-markdown_github/unnamed-chunk-6-1.png)
+![](Educ-Fert_files/figure-markdown_github/unnamed-chunk-6-1.png)
 
 ``` r
 p2
 ```
 
-![](Final_files/figure-markdown_github/unnamed-chunk-6-2.png)
+![](Educ-Fert_files/figure-markdown_github/unnamed-chunk-6-2.png)
 
 ``` r
 rbind(dfperu,dfcolombia)
