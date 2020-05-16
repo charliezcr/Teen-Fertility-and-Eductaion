@@ -3,6 +3,4 @@ Does improving a country’s secondary school enrollment rate lower its teen fer
 
 If you want to read the markdown report, please click Educ-Fert.md
 
-For a report with better display of images , please refer to https://rpubs.com/charliez/603426
-
 For R code, please click Final.R
